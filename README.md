@@ -102,5 +102,5 @@ Feel free to fork and submit pull requests to enhance functionality, add interac
 ## 🔗 Links
 
 * [ISO/IEC 27002:2022 Overview Blog](https://munyakazi.org/professional-blog/it-security-management-framework/)
-* [Live Demo](https://yourdomain.com/path/iso27002_Diagram.html)
+* [Live Demo](https://jeanclaudemunyakazi.github.io/iso27002_diagram/)
 * [Author Portfolio](https://munyakazi.org)
