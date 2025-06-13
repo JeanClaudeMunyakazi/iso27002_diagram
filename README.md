@@ -26,7 +26,7 @@ Designed for easy visual reference, this layout can be integrated across multipl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/iso27002_Diagram.git
+git clone https://github.com/JeanClaudeMunyakazi/iso27002_Diagram.git
 ```
 
 ### 2. Open the File
