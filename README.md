@@ -87,12 +87,6 @@ Simply open `iso27002_Diagram.html` in any modern browser.
 
 ---
 
-## 📸 Screenshots
-
-* Coming soon in **`/assets/screenshots`** folder.*
-
----
-
 ##  License
 
 This project is licensed under the MIT License. You are free to use, modify, and distribute for educational and non-commercial use.
