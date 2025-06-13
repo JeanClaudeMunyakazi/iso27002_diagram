@@ -1,4 +1,4 @@
-# ISO/IEC 27002:2022 Diagram – Responsive HTML Visualization
+# ISO/IEC 27002:2022 Diagram, Responsive HTML Visualization
 
 This project provides a responsive, dark-mode HTML/CSS visualization of the **ISO/IEC 27002:2022** standard, showcasing all 93 security controls across the four main domains:
 
