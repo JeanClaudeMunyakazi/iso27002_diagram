@@ -11,9 +11,11 @@ Designed for easy visual reference, this layout can be integrated across multipl
 
 ---
 
+> **Disclaimer:** This project is an independent educational visualization. It is not affiliated with or endorsed by ISO or IEC and does not reproduce the official standard text.
+
 ## Features
 
-*  **ISO/IEC 27002:2022 compliant** visualization
+*  Visual reference covering the **ISO/IEC 27002:2022** control structure.
 *  Fully **dark-mode** interface for accessibility
 *  Responsive layout optimized for **Desktop**, **Tablet**, and **Mobile**
 *  Clean separation of domains, controls, and visual legends
@@ -26,12 +28,12 @@ Designed for easy visual reference, this layout can be integrated across multipl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/JeanClaudeMunyakazi/iso27002_Diagram.git
+git clone https://github.com/JeanClaudeMunyakazi/iso27002_diagram.git
 ```
 
 ### 2. Open the File
 
-Simply open `iso27002_Diagram.html` in any modern browser.
+Simply open `index.html` in any modern browser.
 
 ---
 
@@ -89,8 +91,7 @@ Simply open `iso27002_Diagram.html` in any modern browser.
 
 ##  License
 
-This project is licensed under the MIT License. You are free to use, modify, and distribute for educational and non-commercial use.
-
+This project is licensed under the MIT License. You may use, modify, and distribute the source code subject to the license terms.
 ---
 
 ##  Contributing
